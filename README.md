@@ -16,6 +16,6 @@ KohonenFeedback
 
 Removes some of the versatility of KohonenWordCategorizer to allow for an interactive system that prints out the top words in each cluster and allows the user to add more words to the stop words list, presumably based on the output, and rerun it.
 Arguments:
-# argv[1] is the spreadsheet for kohonen
-# argv[2] is the stop words list
-# argv[3] is --silent if you want to run it silently (no feedback, equivalent to KohonenWordsCategorizer on CATEGORIES (defined at the top of the file) categories with --words
+argv[1] is the spreadsheet for kohonen
+argv[2] is the stop words list
+argv[3] is --silent if you want to run it silently (no feedback, equivalent to KohonenWordsCategorizer on CATEGORIES (defined at the top of the file) categories with --words
